@@ -1,5 +1,5 @@
 # Smart-Door-Lock 2020
-Two MCUs (AVR Atmega16) connected and communicate with  UART protocol ,
+Two MCUs (AVR Atmega16) are connected through UART protocol ,
 -HMI MCU _Interfacing Module _ for entering the password through the KeyPad and display it on LCD 
   new PassWord is Enterd at the beginning and re-entered again you have 3 time re-entering if wrong go to the 1st step ,if passed then two options :
                                                                                                                                                   -Motor Start
